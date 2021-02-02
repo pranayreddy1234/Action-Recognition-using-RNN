@@ -23,4 +23,4 @@ types: 1)Human-Object Interaction 2) Body-Motion Only 3)
 Human-Human Interaction 4) Playing Musical Instruments 5)
 Sports.
 
-Every infromation related to the project can be found in the above pdf
+Every infromation related to the project can be found in the above project2report_pranayre.pdf
